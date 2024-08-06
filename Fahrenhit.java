@@ -1,6 +1,5 @@
 import java.util.*;
-class Fahrenhit
-{
+class Fahrenhit{
 	public static void main(String arg[]){
 		double celsius,fahrenhit;
 		Scanner sc=new Scanner(System.in);
